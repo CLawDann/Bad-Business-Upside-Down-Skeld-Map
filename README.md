@@ -1,4 +1,4 @@
-# Skeld by InnerSloth LLC (Custom Map for Bad Business)
+# plǝʞS by InnerSloth LLC (Custom Map for Bad Business)
 The following repository you're seeing here is made and optimized for a Roblox game called, Bad Business. Here you'll see that there is a set of numbers and letters existing within a "custom map" that is supposed to be played. In which it is played by clicking on a map's RAW and copying it's URL, and pasting it to the game's importmap feature.
 
 # How it works
@@ -23,5 +23,5 @@ InnerSloth LLC for the original map
 
 x_o and theuserwhosayingthis for making and providing the custom map plugin, which can be found here: https://create.roblox.com/store/asset/5455377206/BBCustomMaps-Updatedunofficial (USE AT YOUR DISCRETION, AS THIS PLUGIN HASN'T BEEN UPDATED FOR YEARS)
 
-CLawDann for importing, adjusting, and exporting this custom map
+CLawDann for importing, adjusting, and exporting this custom map (+ flipping the map upside down and making it playable)
 
